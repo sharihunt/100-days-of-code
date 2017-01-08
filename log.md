@@ -4,7 +4,7 @@
 
 **Today's Topic:** CSS Shapes
 
-**Today's Progress:** Learned about CSS shapes from the [CSS & HTML Holiday Trees Tutorial](https://holiday-trees.herokuapp.com/index.html). My [first pull request](https://github.com/mkmckenzie/holiday-trees/pull/3) was merged. Great introduction to CSS shapes.  Next CSS shapes tutorial will [Creating Non-Rectangular Layouts With CSS Shapes](https://sarasoueidan.com/blog/css-shapes/).
+**Today's Progress:** Learned about CSS shapes from the [CSS & HTML Holiday Trees Tutorial](https://holiday-trees.herokuapp.com/index.html). My [first pull request](https://github.com/mkmckenzie/holiday-trees/pull/3) was merged. Great introduction to CSS shapes.  Next CSS shapes tutorial will be [Creating Non-Rectangular Layouts With CSS Shapes](https://sarasoueidan.com/blog/css-shapes/).
 
 **Link to work:** [Holiday Trees (SH)](https://holiday-trees.herokuapp.com/index.html)
 ___
