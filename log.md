@@ -74,3 +74,21 @@ ___
 
 **Link to Work:** [Bear Cub](http://codepen.io/sharihunt/pen/OWRLyz)
 ___
+### Day 10: January 15, 2017
+
+**Today's Topic:** HTML
+
+**Today's Progress:** Udemy - The Complete Webdeveloper Course 2.0.
+___
+### Day 11-13: January 17-19, 2017
+
+**Today's Topic:** CSS Shapes
+
+**Today's Progress:** Attempted Daily CSS Images - Day 02 Elephant. Still in progress.
+___
+### Day 14-17: January 20-23, 2017
+
+**Today's Topic:** CSS
+
+**Today's Progress:** Udemy - The Complete Webdeveloper Course 2.0 was purchased primarily for the other lessons (i.e. Javascript, APIs, MySQL, PHP etc.). Originally, I was going to watch some of the HTML/CSS videos to review and see the teaching style. After starting the course I also decided to try Sublime. Now I'm using the HTML/CSS lessons to get use to the new editor.
+___
