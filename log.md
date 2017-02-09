@@ -1,5 +1,47 @@
 # 100 Days Of Code - Log
 
+### Day 27-29: February 5 - 7, 2017
+
+**Today's Topic:** Android
+
+**Today's Progress:**  Finished Udacity - Android Development for Beginners. Looking forward to starting Android Basic - Multiscreen Apps later this week.
+___
+
+### Day 26: February 4, 2017
+
+**Today's Topic:** Javascript
+
+**Today's Progress:**  Finished Javascript section of Complete Webdeveloper Course
+___
+
+### Day 23-25: February 1 - 3, 2017
+
+**Today's Topic:** Android
+
+**Today's Progress:**  Before starting the challenge I started the Udacity - Android Development for Beginners.  This is my first experience with developing apps.
+___
+
+### Day 22: January 31, 2017
+
+**Today's Topic:** Javascript
+
+**Today's Progress:**  Complete Webdeveloper Course
+___
+
+### Day 21: January 29, 2017
+
+**Today's Topic:** Javascript
+
+**Today's Progress:**  Complete Webdeveloper Course
+___
+
+### Day 20: January 28, 2017
+
+**Today's Topic:** Wordpress
+
+**Today's Progress:**  
+___
+
 ### Day 19: January 27, 2017
 
 **Today's Topic:** Javascript
